@@ -86,7 +86,7 @@ class Ui_MainWindow(object):
         self.cipher_text_label.setText(_translate("PlayfairMainWindow", "Cipher text:"))
         self.btn_encrypt.setText(_translate("PlayfairMainWindow", "Encrypt"))
         self.btn_decrypt.setText(_translate("PlayfairMainWindow", "Decrypt"))
-        self.label_student_info.setText(_translate("PlayfairMainWindow", "TRẦN SỶ SƠN LÂM - 2280601697"))
+        
         self.label_matrix.setText(_translate("PlayfairMainWindow", "Playfair Matrix:"))
 
 

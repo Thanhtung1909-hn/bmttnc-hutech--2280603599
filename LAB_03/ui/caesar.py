@@ -80,7 +80,7 @@ class Ui_MainWindow(object):
         self.label_2.setText(_translate("MainWindow", "Cipher text:"))
         self.btn_encrypt.setText(_translate("MainWindow", "Encrypt"))
         self.btn_decrypt.setText(_translate("MainWindow", "Decrypt"))
-        self.label_3.setText(_translate("MainWindow", "TRẦN SỶ SƠN LÂM - 2280601697"))
+        
 
 
 if __name__ == "__main__":
